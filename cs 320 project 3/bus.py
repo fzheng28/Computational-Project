@@ -1,6 +1,4 @@
 #project: P2
-#submitter: ghanty@wisc.edu
-#partner: fzheng28@wisc.edu
 
 
 from math import sin, cos, asin, sqrt, pi
